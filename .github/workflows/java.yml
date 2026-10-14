@@ -17,4 +17,4 @@ jobs:
       - name: Compile
         run: javac cowboyWelcome.java
       - name: Run
-        run: java Welcome
+        run: java cowboyWelcome
